@@ -1,0 +1,4 @@
+https://curl.haxx.se/libcurl/c/http-post.html
+https://curl.haxx.se/libcurl/c/
+http://stackoverflow.com/questions/13905774/in-c-how-do-you-use-libcurl-to-read-a-http-response-into-a-string 
+http://stackoverflow.com/questions/2329571/c-libcurl-get-output-into-a-string
